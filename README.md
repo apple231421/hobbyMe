@@ -46,6 +46,3 @@
 - **Server**: Apache Tomcat 9.0  
 
 ---
-
-# IDE에서 Tomcat 서버 실행 (예: Eclipse, VSCode, IntelliJ)
-# MySQL DB 연결 (db.properties 수정 필요)
