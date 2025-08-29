@@ -1,8 +1,5 @@
 # 🎨 HobbyMe — 취미 공유 플랫폼
 > 취미 활동을 공유하고 클래스 모집/예약/결제를 지원하는 웹 플랫폼
-
-🔗 [HobbyMe GitHub Repository](https://github.com/apple231421/hobbyMe)
-
 ---
 
 ## 👥 팀 구성
